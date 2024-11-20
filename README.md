@@ -1,0 +1,1 @@
+The present project illustrates the making of a linear regression model from beginning employing the Python language. The task involves making a prediction about the office price given the size of an office as input using gradient descent optimization.
